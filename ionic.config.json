@@ -1,5 +1,7 @@
 {
   "name": "AmigoCaminhoneiro",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
